@@ -1,0 +1,87 @@
+<ns0:eFact xmlns:ns0="http://cfe.dgi.gub.uy" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:DGICFE="http://cfe.dgi.gub.uy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <ns0:TmstFirma>2017-03-15T23:49:23-03:00</ns0:TmstFirma>
+      <ns0:Encabezado>
+        <ns0:IdDoc>
+          <ns0:TipoCFE>111</ns0:TipoCFE>
+          <ns0:Serie>A</ns0:Serie>
+          <ns0:Nro>1</ns0:Nro>
+          <ns0:FchEmis>2017-03-15</ns0:FchEmis>
+          <ns0:MntBruto>1</ns0:MntBruto>
+          <ns0:FmaPago>1</ns0:FmaPago>
+        </ns0:IdDoc>
+        <ns0:Emisor>
+          <ns0:RUCEmisor>160010030018</ns0:RUCEmisor>
+          <ns0:RznSoc>Carlos E. Zunini y Cia.</ns0:RznSoc>
+          <ns0:NomComercial>Zuni Mercado</ns0:NomComercial>
+          <ns0:Telefono/>
+          <ns0:CorreoEmisor/>
+          <ns0:CdgDGISucur>1</ns0:CdgDGISucur>
+          <ns0:DomFiscal>19 Abril 1897, Salto</ns0:DomFiscal>
+          <ns0:Ciudad/>
+          <ns0:Departamento>Salto</ns0:Departamento>
+        </ns0:Emisor>
+        <ns0:Receptor>
+          <ns0:TipoDocRecep>2</ns0:TipoDocRecep>
+          <ns0:CodPaisRecep>UY</ns0:CodPaisRecep>
+          <ns0:DocRecep>160145640019</ns0:DocRecep>
+          <ns0:RznSocRecep>IVONNE MATTOS RUY E HIJOS S.C.</ns0:RznSocRecep>
+          <ns0:DirRecep>ARTIGAS 678 AP.301</ns0:DirRecep>
+          <ns0:CiudadRecep>Salto</ns0:CiudadRecep>
+        </ns0:Receptor>
+        <ns0:Totales>
+          <ns0:TpoMoneda>UYU</ns0:TpoMoneda>
+          <ns0:MntNoGrv>0</ns0:MntNoGrv>
+          <ns0:MntExpoyAsim>0</ns0:MntExpoyAsim>
+          <ns0:MntNetoIvaTasaMin>0</ns0:MntNetoIvaTasaMin>
+          <ns0:MntNetoIVATasaBasica>12.74</ns0:MntNetoIVATasaBasica>
+          <ns0:MntNetoIVAOtra>0</ns0:MntNetoIVAOtra>
+          <ns0:IVATasaMin>10</ns0:IVATasaMin>
+          <ns0:IVATasaBasica>22</ns0:IVATasaBasica>
+          <ns0:MntIVATasaMin>0</ns0:MntIVATasaMin>
+          <ns0:MntIVATasaBasica>2.8</ns0:MntIVATasaBasica>
+          <ns0:MntIVAOtra>0</ns0:MntIVAOtra>
+          <ns0:MntTotal>15.54</ns0:MntTotal>
+          <ns0:CantLinDet>2</ns0:CantLinDet>
+          <ns0:MontoNF>0.46</ns0:MontoNF>
+          <ns0:MntPagar>16</ns0:MntPagar>
+        </ns0:Totales>
+      </ns0:Encabezado>
+      <ns0:Detalle>
+        <ns0:Item>
+          <ns0:NroLinDet>1</ns0:NroLinDet>
+          <ns0:CodItem>
+            <ns0:TpoCod>INT1</ns0:TpoCod>
+            <ns0:Cod>77942418</ns0:Cod>
+          </ns0:CodItem>
+          <ns0:IndFact>3</ns0:IndFact>
+          <ns0:NomItem>Beldent menta suave</ns0:NomItem>
+          <ns0:Cantidad>1</ns0:Cantidad>
+          <ns0:UniMed>UN</ns0:UniMed>
+          <ns0:PrecioUnitario>15.54</ns0:PrecioUnitario>
+          <ns0:DescuentoPct>0</ns0:DescuentoPct>
+          <ns0:DescuentoMonto>0</ns0:DescuentoMonto>
+          <ns0:MontoItem>15.54</ns0:MontoItem>
+        </ns0:Item>
+        <ns0:Item>
+          <ns0:NroLinDet>2</ns0:NroLinDet>
+          <ns0:CodItem>
+            <ns0:TpoCod>INT1</ns0:TpoCod>
+            <ns0:Cod>0</ns0:Cod>
+          </ns0:CodItem>
+          <ns0:IndFact>6</ns0:IndFact>
+          <ns0:NomItem>Redondeo</ns0:NomItem>
+          <ns0:Cantidad>1</ns0:Cantidad>
+          <ns0:UniMed/>
+          <ns0:PrecioUnitario>0.46</ns0:PrecioUnitario>
+          <ns0:DescuentoPct>0</ns0:DescuentoPct>
+          <ns0:DescuentoMonto>0</ns0:DescuentoMonto>
+          <ns0:MontoItem>0.46</ns0:MontoItem>
+        </ns0:Item>
+      </ns0:Detalle>
+      <ns0:CAEData>
+        <ns0:CAE_ID>90170052007</ns0:CAE_ID>
+        <ns0:DNro>1</ns0:DNro>
+        <ns0:HNro>9999999</ns0:HNro>
+        <ns0:FecVenc>2019-03-01</ns0:FecVenc>
+      </ns0:CAEData>
+    </ns0:eFact>

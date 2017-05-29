@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><DGICFE:EnvioCFE version="1.0" xmlns:DGICFE="http://cfe.dgi.gub.uy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cfe.dgi.gub.uy EnvioCFE.xsd">
+    <DGICFE:Caratula version="1.0">
+        <DGICFE:RutReceptor>219999830019</DGICFE:RutReceptor>
+        <DGICFE:RUCEmisor>160010030018</DGICFE:RUCEmisor>
+        <DGICFE:Idemisor>5157595</DGICFE:Idemisor>
+        <DGICFE:CantCFE>1</DGICFE:CantCFE>
+    <DGICFE:Fecha>2017-05-28T20:46:16-03:00</DGICFE:Fecha><DGICFE:X509Certificate>MIIGMzCCBBugAwIBAgIUAVfCSrT4W6hvNTEZHmKh49GsBBkwDQYJKoZIhvcNAQELBQAwWjEdMBsG
+A1UEAxMUQ29ycmVvIFVydWd1YXlvIC0gQ0ExLDAqBgNVBAoMI0FkbWluaXN0cmFjacOzbiBOYWNp
+b25hbCBkZSBDb3JyZW9zMQswCQYDVQQGEwJVWTAeFw0xNzA1MTkyMTE0MzJaFw0xOTA1MTkyMTE0
+MzJaMF8xGDAWBgNVBAUTD1JVQzE2MDAxMDAzMDAxODELMAkGA1UEBhMCVVkxIDAeBgNVBAoTF0NB
+UkxPUyBFLiBaVU5JTkkgWSBDSUEuMRQwEgYDVQQDEwtaVU5JTUVSQ0FETzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKWK5s5nKd3g0gz0WZpIoYKut32XDGUAGXfXN16AZZdUn7+mRADg
+ZIpHqnQbgF3illasFp6LTSQU0y9zwqWE8vQlJGLSPczrEe9Wdt/34BzDAfnZ3ASMYgQLfhHraglr
+qLLJkefmpehdG6p6RWy5oSADwLfvbZnNoDmFwJTwydTTQFRCMnpfb/ffSxRuIQWyF4BCaCHtwtGQ
+aXU3OMNMBg3OJCJBnD2wGh4YFE1DPslnODvJYio3NmC3uxY4gQz18PhC9HCfZ2JR34gcVkUxJszU
+c5UUgKVcawOB78bBkaVjh3BTevvPY3U8qa55aUk3beZBFjaGMONkqApvXUSRj58CAwEAAaOCAeow
+ggHmMHkGCCsGAQUFBwEBBG0wazA2BggrBgEFBQcwAoYqaHR0cDovL2FuY2NhLmNvcnJlby5jb20u
+dXkvYW5jY2EvYW5jY2EuY2VyMDEGCCsGAQUFBzABhiVodHRwOi8vYW5jY2EuY29ycmVvLmNvbS51
+eS9hbmNjYS9PQ1NQMA4GA1UdDwEB/wQEAwIE8DAMBgNVHRMBAf8EAjAAMDsGA1UdHwQ0MDIwMKAu
+oCyGKmh0dHA6Ly9hbmNjYS5jb3JyZW8uY29tLnV5L2FuY2NhL2FuY2NhLmNybDCBuAYDVR0gBIGw
+MIGtMGQGC2CGWoTirh2EiAUEMFUwUwYIKwYBBQUHAgEWR2h0dHA6Ly91Y2UuZ3ViLnV5L2luZm9y
+bWFjaW9uLXRlY25pY2EvcG9saXRpY2FzL2NwX3BlcnNvbmFfanVyaWRpY2EucGRmMEUGC2CGWoTi
+rh2EiAUGMDYwNAYIKwYBBQUHAgEWKGh0dHA6Ly9hbmNjYS5jb3JyZW8uY29tLnV5L2FuY2NhL2Nw
+cy5wZGYwEwYDVR0lBAwwCgYIKwYBBQUHAwIwHQYDVR0OBBYEFKDlKA2Breuce18eeG5Ew8N9MZAG
+MB8GA1UdIwQYMBaAFGzisCaNW9YmCB+YXWngDn9V7K52MA0GCSqGSIb3DQEBCwUAA4ICAQCv9Uvl
+Q71JwkOUZxlYaUQsgxUZ2d0Vj1qE8oPVnZh14YP8+E5ItKSRzTFFZ6vthjCFR1pqJIK3c6sEdQck
+LBm3bRVVH3DsSFPQHbkTqVjjhqNhEIAHFGUhTbQR3lYyPrRCV39NFLZZpmw1QBS8W6jaakNBORVS
+hEwbMeI7m2WCUfYsNOBb2DdzhLHV/MarcD6ZaKLrm2LSNTCOfXIBELBIKuEewIwOEumbFOQNSkID
+zW3jExwhYpu36CS+GnHsxQ84iaaCLE7wxpNicqvKBT2LnZhzGTdiLJtvG7yMNJ0hrSmAeVOx6w30
+y8V3QnhEhz0sU2pm06FTlU6EQflR1zVoGV0R3ok0LNJ1MWmdtxKCtSOghQK1MGwtRB+A+m/yxUxD
+/ORf10WedQlg5/0VMc+V00VMutvqdx+arVRzTIeo9cm9WHTAPRGNd6huAywMIt0KUuNV6/s+KhWn
+Id2Usx4VbhC6fLmwKYuk/LvXT30CijX8CoPcGodl7YfryGNanAm/BUhVTw8e9T/2aNg+CCrpkHiB
+lKi88eA7Xmt+r4pp47F8er+yY6pEoflSB0EUs6+rMy6EqZ8v0Qz5m2767btGC9D40oUrDTSkO2/3
+2iA/misrOYsq8zpXumXR4pTWgMUzhbjQJP9bQEwSib8smuj9yEgZIiGMpyInbE0LcDFRPQ==
+</DGICFE:X509Certificate></DGICFE:Caratula>
+    <ns0:CFE version="1.0" xmlns:ns0="http://cfe.dgi.gub.uy">
+<ns0:eFact xmlns:DGICFE="http://cfe.dgi.gub.uy" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:ns0="http://cfe.dgi.gub.uy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <ns0:TmstFirma>2017-03-15T23:49:23-03:00</ns0:TmstFirma>
+      <ns0:Encabezado>
+        <ns0:IdDoc>
+          <ns0:TipoCFE>111</ns0:TipoCFE>
+          <ns0:Serie>A</ns0:Serie>
+          <ns0:Nro>1</ns0:Nro>
+          <ns0:FchEmis>2017-03-15</ns0:FchEmis>
+          <ns0:MntBruto>1</ns0:MntBruto>
+          <ns0:FmaPago>1</ns0:FmaPago>
+        </ns0:IdDoc>
+        <ns0:Emisor>
+          <ns0:RUCEmisor>160010030018</ns0:RUCEmisor>
+          <ns0:RznSoc>Carlos E. Zunini y Cia.</ns0:RznSoc>
+          <ns0:NomComercial>Zuni Mercado</ns0:NomComercial>
+          <ns0:Telefono/>
+          <ns0:CorreoEmisor/>
+          <ns0:CdgDGISucur>1</ns0:CdgDGISucur>
+          <ns0:DomFiscal>19 Abril 1897, Salto</ns0:DomFiscal>
+          <ns0:Ciudad/>
+          <ns0:Departamento>Salto</ns0:Departamento>
+        </ns0:Emisor>
+        <ns0:Receptor>
+          <ns0:TipoDocRecep>2</ns0:TipoDocRecep>
+          <ns0:CodPaisRecep>UY</ns0:CodPaisRecep>
+          <ns0:DocRecep>160145640019</ns0:DocRecep>
+          <ns0:RznSocRecep>IVONNE MATTOS RUY E HIJOS S.C.</ns0:RznSocRecep>
+          <ns0:DirRecep>ARTIGAS 678 AP.301</ns0:DirRecep>
+          <ns0:CiudadRecep>Salto</ns0:CiudadRecep>
+        </ns0:Receptor>
+        <ns0:Totales>
+          <ns0:TpoMoneda>UYU</ns0:TpoMoneda>
+          <ns0:MntNoGrv>0</ns0:MntNoGrv>
+          <ns0:MntExpoyAsim>0</ns0:MntExpoyAsim>
+          <ns0:MntNetoIvaTasaMin>0</ns0:MntNetoIvaTasaMin>
+          <ns0:MntNetoIVATasaBasica>12.74</ns0:MntNetoIVATasaBasica>
+          <ns0:MntNetoIVAOtra>0</ns0:MntNetoIVAOtra>
+          <ns0:IVATasaMin>10</ns0:IVATasaMin>
+          <ns0:IVATasaBasica>22</ns0:IVATasaBasica>
+          <ns0:MntIVATasaMin>0</ns0:MntIVATasaMin>
+          <ns0:MntIVATasaBasica>2.8</ns0:MntIVATasaBasica>
+          <ns0:MntIVAOtra>0</ns0:MntIVAOtra>
+          <ns0:MntTotal>15.54</ns0:MntTotal>
+          <ns0:CantLinDet>2</ns0:CantLinDet>
+          <ns0:MontoNF>0.46</ns0:MontoNF>
+          <ns0:MntPagar>16</ns0:MntPagar>
+        </ns0:Totales>
+      </ns0:Encabezado>
+      <ns0:Detalle>
+        <ns0:Item>
+          <ns0:NroLinDet>1</ns0:NroLinDet>
+          <ns0:CodItem>
+            <ns0:TpoCod>INT1</ns0:TpoCod>
+            <ns0:Cod>77942418</ns0:Cod>
+          </ns0:CodItem>
+          <ns0:IndFact>3</ns0:IndFact>
+          <ns0:NomItem>Beldent menta suave</ns0:NomItem>
+          <ns0:Cantidad>1</ns0:Cantidad>
+          <ns0:UniMed>UN</ns0:UniMed>
+          <ns0:PrecioUnitario>15.54</ns0:PrecioUnitario>
+          <ns0:DescuentoPct>0</ns0:DescuentoPct>
+          <ns0:DescuentoMonto>0</ns0:DescuentoMonto>
+          <ns0:MontoItem>15.54</ns0:MontoItem>
+        </ns0:Item>
+        <ns0:Item>
+          <ns0:NroLinDet>2</ns0:NroLinDet>
+          <ns0:CodItem>
+            <ns0:TpoCod>INT1</ns0:TpoCod>
+            <ns0:Cod>0</ns0:Cod>
+          </ns0:CodItem>
+          <ns0:IndFact>6</ns0:IndFact>
+          <ns0:NomItem>Redondeo</ns0:NomItem>
+          <ns0:Cantidad>1</ns0:Cantidad>
+          <ns0:UniMed/>
+          <ns0:PrecioUnitario>0.46</ns0:PrecioUnitario>
+          <ns0:DescuentoPct>0</ns0:DescuentoPct>
+          <ns0:DescuentoMonto>0</ns0:DescuentoMonto>
+          <ns0:MontoItem>0.46</ns0:MontoItem>
+        </ns0:Item>
+      </ns0:Detalle>
+      <ns0:CAEData>
+        <ns0:CAE_ID>90170052007</ns0:CAE_ID>
+        <ns0:DNro>1</ns0:DNro>
+        <ns0:HNro>9999999</ns0:HNro>
+        <ns0:FecVenc>2019-03-01</ns0:FecVenc>
+      </ns0:CAEData>
+    </ns0:eFact>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo xmlns="http://www.w3.org/2000/09/xmldsig#" xmlns:DGICFE="http://cfe.dgi.gub.uy" xmlns:ns0="http://cfe.dgi.gub.uy">
+  <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+  <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+  <Reference URI="">
+    <Transforms>
+       <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+       <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+    </Transforms>
+    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+    <DigestValue>yeo4CGp+mnYkvbSeGwzgxErEORU=</DigestValue>
+  </Reference>
+</SignedInfo>
+<SignatureValue>M9jSGAgDebax6W6LDCM2tVBf0sBmDQGiKCUyhtfaa1gHJe7vEnFYS0b+0aLrT/HgDhEC6TdjTKzCbFJ9ZZpSstDB4izBkCvINA12zLe2ATYrR8A6LHQf8AF825vKtg0kiDUtWaXADTwFbMOvbAT0QDK+3aNls9Jfx8JU8jUEifl6D+BKjuEsNEaC+MpwPjPoMb1hl89+Oy6dQb9gbiXH161vrIx8UoVaisZ6I4UExiMLSJ1NurWsKR9yYIHFteVCj78YOqCVKzNnVaG34+vt5iluc5EX9WPY629HXY38Ms1WW5h+inJlmZHVwArC3sC5sz9g6yYmUdgM5MgvAjhrfA==</SignatureValue>
+
+<KeyInfo>
+    <X509Data>
+        <X509IssuerSerial>
+            <X509IssuerName>CN=Correo Uruguayo - CA, O=Administraci\xC3\xB3n Nacional de Correos, C=UY</X509IssuerName>
+            <X509SerialNumber>7666080808012505281066362784645588937979200537</X509SerialNumber>
+        </X509IssuerSerial>
+    </X509Data>
+</KeyInfo>
+
+</Signature></ns0:CFE>
+</DGICFE:EnvioCFE>
