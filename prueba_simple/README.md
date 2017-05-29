@@ -22,7 +22,7 @@ Ejecutando el código en modo normal, se recibe este error:
 ```
 
 
-En cambio, puesto en debug aparece esto otro.
+En cambio, puesto en debug aparece esto otro (tengo dudas que sea un error genuino)
 
 ```
     .... /pysimplesoap/client.py(257)call()
@@ -45,6 +45,9 @@ En cambio, puesto en debug aparece esto otro.
 
 ```
 
+Finalmente agrego el volcado de `client.xml_request` antes del llamado al método remoto.
+
+    `raw_request.xml`
 
 
 
